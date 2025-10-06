@@ -1,0 +1,22 @@
+Abstract Modififier:
+=> Abstract is also a keyword , which is used with a method and class.
+
+Abstract Mathod:
+=>An Abstract mathod can not have definition body inside its super class , it have only declaration inside super class
+=> An Abstract mathoda must be override by sub class.
+=> an Abstract method can be declara inside Abstract class.
+
+Abstract class:
+=> An Abstract class is actualy incomplete class because we can not create the object of Abstract class.
+ an Abstract class must be inhetited by another class for its activation.
+ => an Abstract can have both types of methods concrete(normal) and abstract.
+
+Ineterface:
+Ineterface a pure anstract/declarative class that can not have its own Object.
+An interface is implement by another class using implement keyword.and it should be declare using 
+interface keyword.
+=>A claa that implemet an interface it must override all the mathod of Interface.
+
+Properties of Inetrface:
+=> An interface does not contain constructor neither implicit nor explict.
+=> an inetrface variable implicitly assign 3 Modifier

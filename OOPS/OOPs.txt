@@ -1,0 +1,70 @@
+Explicit Constructor:
+   => A Constructor whicjh create by program Without any argument which is callsd Explicit 
+Default Constructor.
+
+
+parametrized Constructor:
+=>  A Constructor that take parameter(argument) value which is called parametrized Constructor
+=> 
+
+
+Inheritance :
+
+=> Reuseabiltiy of programing coda is called Inheritance.
+=> in heritance all the use of class can be use be classified into two type.
+
+1. Base/Super/Parent class
+2. Derived/Sub/Child class
+
+Note : Extends Keyword is used to inherite prperties of 1 class in to another class.
+
+Note: Inheritance is bottom to top programing approch
+
+Note: private properties of a class can not be inherit.
+
+Note. Outer class can not be private.
+
+type of inhetance:
+there are five type of inhetance.
+1.single Inheritacne
+2.Hierarchal inhetance
+3.*Multiple Inheritance
+4. Multiple Inheritance
+5.*Hybrid inheritance
+
+
+1.Single Inheritance
+
+
+class Employee{ // base class
+
+}
+class salery Extends Employee{ //Drived class
+
+}
+
+2. Hierarchal Inheritacne
+
+
+This Keyword:
+=> This keyword refer the objet of current class 
+=> the keyword is not reposible to create the object oc current class this ketword 
+only contain the object class.
+
+properties of this keyword:
+=> 1. property 1: Context of variable
+=> it is allow that we can have local and instance variable with same name inside a class
+"then using this keyword we can access instamce variable inside Local block".
+
+1.property of this keyword Context of Constructor
+
+=> Using this keyword we can call the current class Constructor.
+=>  to call the current class constructor using this keyword the statement must be written
+ inside constructor .
+
+ Property3. Context of Method;
+ => using This keyword we can call the method of current class but java 7 an upper version also 
+ allow a call  current class method without this keyword.
+
+ 
+

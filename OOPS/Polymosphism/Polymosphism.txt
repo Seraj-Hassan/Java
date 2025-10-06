@@ -1,0 +1,31 @@
+Polymosphism 
+=> Polymosphism = poly(many)+Morphism(From)
+
+=> One name and its multiple from is called Polymosphism.
+=> in Polymorphism using single component we can perform more then 1 Operation. 
+=> for example key of mobile phone, using singlr key of mobile ohone , we can type multiple alphabates.
+Note: All the concept of Polymorphismare implement context of method / Constructor.
+
+Type of Polymorphism
+=> there are 2 type of Polymorphism
+
+1. Compile time Polymorphism
+2. Run time Polymorphism
+
+Compile time Polymorphism
+=> In this all the used method should be bind at tha time of compilation , so it is also called 
+   Early Bindiding
+
+ther are three way to compile time Polymorphism
+
+1. Method overload
+2. Constructor Overload.
+3. *Operator Overloading
+
+Operator Overloading :
+=> Operator Overloading allow to have more then one operation for and existion operator.
+=> Java does not support operator overloading programimg due to Scurity . but there are two
+   operators (+,-) which are already overload.
+
+Method Overloading:
+ 
